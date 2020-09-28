@@ -1,10 +1,37 @@
 [
     {
-      "id": 1,
-      "title": "hello"
+        "to": "sent",
+        "subject": "abc",
+        "date": "21 jul 2020",
+        "time": "4:00pm",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
- {
-          "id": 1,
-      "title": "hello"
-  }
+    {
+        "to": "Rio",
+        "subject": "xyz",
+        "date": "21 jul 2020",
+        "time": "4:00pm",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "to": "lorem",
+        "subject": "abc",
+        "date": "21 jul 2020",
+        "time": "4:00pm",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "to": "ipsum",
+        "subject": "abc",
+        "date": "21 jul 2020",
+        "time": "4:00pm",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+        "to": "john",
+        "subject": "abc",
+        "date": "21 jul 2020",
+        "time": "4:00pm",
+        "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
+    }
 ]
