@@ -1,5 +1,4 @@
-
-
+[
     {
         "to": "sent",
         "subject": "abc",
@@ -35,3 +34,4 @@
         "time": "4:00pm",
         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
     }
+]
