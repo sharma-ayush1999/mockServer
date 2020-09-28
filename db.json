@@ -36,7 +36,7 @@
         "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas\r\ntotam\nnostrum rerum est autem sunt rem eveniet architecto"
     }
   ],
-  "scheduled":[
+  "template":[
     {
         "to": "scheduled",
         "subject": "abc",
